@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lava-dev-png
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c basics
+- 🌱 I’m currently learning DSA in Java
+- 
 
 
 <!---
